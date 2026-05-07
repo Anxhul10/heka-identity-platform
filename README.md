@@ -1,6 +1,7 @@
 # Heka Identity Platform
 <-- This commit is done by changing git config -->
 <-- eg git config --global user.name 'torvalds' git config --global user.email 'torvalds@linux-foundation.org' -->
+<-- another commit spoof what the helll !!! this i never knew -->
 [![Commit activity](https://img.shields.io/github/commit-activity/m/hiero-ledger/heka-identity-platform)](https://github.com/hiero-ledger/heka-identity-platform/commits/main)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/hiero-ledger/heka-identity-platform/badge)](https://scorecard.dev/viewer/?uri=github.com/hiero-ledger/heka-identity-platform)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10697/badge)](https://bestpractices.coreinfrastructure.org/projects/10697)
